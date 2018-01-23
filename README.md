@@ -20,7 +20,9 @@ npm install time-localstorage --save
 #项目引入
 import timeLocalStorage from 'time-localstorage'
 
-# Api
+
+```
+## Api
 
 
 | 方法名       |    作用           | 参数  | 返回值 |
@@ -30,6 +32,3 @@ import timeLocalStorage from 'time-localstorage'
 | remove |  通过key删除一个存储，和原生保持一致  |  [name]  | 无 |
 
 | clear |  删除所有的本地存储数据，和原生保持一致  |  无  | 无 |
-
-
-```

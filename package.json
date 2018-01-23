@@ -1,6 +1,6 @@
 {
   "name": "time-localstorage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "[![NPM](https://nodei.co/npm/vue-feedback.png)](https://github.com/hjc22/vue-feedback)",
   "main": "index.js",
   "scripts": {
