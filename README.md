@@ -20,6 +20,8 @@ npm install time-localstorage --save
 #项目引入
 import timeLocalStorage from 'time-localstorage'
 
+#使用
+timeLocalStorage.get('name')/timeLocalStorage.set('name',{a:1},60) ...
 
 ```
 ## Api
