@@ -1,0 +1,19 @@
+{
+  "name": "time-localstorage",
+  "version": "1.0.1",
+  "description": "[![NPM](https://nodei.co/npm/vue-feedback.png)](https://github.com/hjc22/vue-feedback)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjc22/time-localstorage.git"
+  },
+  "author": "hjc22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjc22/time-localstorage/issues"
+  },
+  "homepage": "https://github.com/hjc22/time-localstorage#readme"
+}
