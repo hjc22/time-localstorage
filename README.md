@@ -30,5 +30,4 @@ import timeLocalStorage from 'time-localstorage'
 | get |  通过key值查询value，如果时间已过期，会返回null  |  [name]   | 存储的数据，保持存储之前的数据类型 |
 | set |  存储数据，time为过期时间，如果time为false,永久存储，单位为秒  |  [name,value,time]  | 无 |
 | remove |  通过key删除一个存储，和原生保持一致  |  [name]  | 无 |
-
 | clear |  删除所有的本地存储数据，和原生保持一致  |  无  | 无 |
